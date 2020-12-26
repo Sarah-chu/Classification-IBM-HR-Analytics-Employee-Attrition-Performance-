@@ -1,25 +1,25 @@
-# Classification--IBM HR Analytics Employee Attrition Performance
-IBM HR Analytics Employee Attrition & Performance
-Classification problem on Employee Attrition 
-Based on the fictional dataset provided by IBM found on Kaggle :
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+# Classification--IBM HR Analytics Employee Attrition Performance<br/>
+IBM HR Analytics Employee Attrition & Performance<br/>
+Classification problem on Employee Attrition <br/>
+Based on the fictional dataset provided by IBM found on Kaggle :<br/>
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset<br/>
 
-In this project, we evaluate our model based on **recall(sensitivity)** as we want to know how well the model detect the employee quitted(TP) from who actually quitted (TP + FN).
+In this project, we evaluate our model based on **recall(sensitivity)** as we want to know how well the model detect the employee quitted(TP) from who actually quitted (TP + FN).<br/>
 It is the proportion of positive result that were correctly classified from all the actual positive.
-It is more useful when the class is *imbalanced*, as true negative is not included in the calculation and thus recall is not affected the imbalance.
+It is more useful when the class is *imbalanced*, as true negative is not included in the calculation and thus recall is not affected the imbalance.<br/>
 In this dataset, we have lots of 'No Attrition' relative to 'Yes' and we would like to predict 'Yes' (i.e leave the company) precisely.
-With recall , we can evaluate the models by looking at how well they predict an actual 'Yes' from all the actual positive (True positive and false negative)
+With recall , we can evaluate the models by looking at how well they predict an actual 'Yes' from all the actual positive (True positive and false negative).<br/>
 
-We select **Gaussian Naive Bayes** as the best model from Logistic Regression, KNN, Decision Tree and Random Forest, based on sensitivity(recall).
+We select **Gaussian Naive Bayes** as the best model from Logistic Regression, KNN, Decision Tree and Random Forest, based on sensitivity(recall).<br/>
 
-In short, the key findings can be found below:
-
-
-## Summary   
+In short, the key findings can be found below:<br/>
 
 
-###### Influential Factors of Attrition
-Our study finds out the employees’ major concerns as following : 
+## Summary   <br/>
+
+
+###### Influential Factors of Attrition<br/>
+Our study finds out the employees’ major concerns as following : <br/>
  1) Employees’ background 
     a) Age 
     b) Working experience
