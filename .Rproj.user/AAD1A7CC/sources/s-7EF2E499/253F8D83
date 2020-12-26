@@ -1,0 +1,25 @@
+{
+    "id": "253F8D83",
+    "path": "~/GitHub/Classification-IBM-HR-Analytics-Employee-Attrition-Performance-/Employee_Attrition_prediction.R",
+    "project_path": "Employee_Attrition_prediction.R",
+    "type": "r_source",
+    "hash": "2631965376",
+    "contents": "",
+    "dirty": false,
+    "created": 1608984177685.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "1039,0",
+        "scrollLine": "1027"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608984765,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608984765976,
+    "read_only": false,
+    "read_only_alternatives": []
+}
