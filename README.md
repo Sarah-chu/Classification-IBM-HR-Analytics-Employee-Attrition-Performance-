@@ -1,6 +1,5 @@
 # Classification--IBM HR Analytics Employee Attrition Performance<br/>
-## IBM HR Analytics Employee Attrition & Performance<br/>
-Classification problem on Employee Attrition <br/>
+## IBM HR Analytics Employee Attrition & Performance<br/> Classification problem on Employee Attrition <br/>
 Based on the fictional dataset provided by IBM found on Kaggle :<br/>
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset<br/>
 
